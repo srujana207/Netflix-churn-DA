@@ -24,6 +24,8 @@ The chart showed inconsistencies, such as:
 * Different Y-axis intervals (Joins: 1,000; Cancels: 2,000), skewing the visual interpretation.
 * A data drop-off in December 2024.
 
+[Watch here](<https://www.loom.com/share/9f433601085846379b1709fb9bda0b63?sid=cb1c0110-1057-486f-b097-3038e714d3a6)
+
 The Excel file had over 1,300 rows with null or zero values in weekly viewing hours. These were filtered out before deeper analysis.
 
 **Key Insights and Errors Identified**
